@@ -1,0 +1,8 @@
+{
+  "name": "task-lines",
+  "version": "0.1.0",
+  "description": "Split a long task into a main line and side lines that run in their own sidebar sessions and worktrees, keep a task ledger on disk that comes back after every compaction, and merge each line back into the main working tree.",
+  "author": {
+    "name": "evanbyte"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "claude-task-lines",
+  "owner": {
+    "name": "evanbyte"
+  },
+  "description": "task-lines: split a long Claude Code task into main and side lines run in their own sessions, with a task ledger that survives compaction.",
+  "plugins": [
+    {
+      "name": "task-lines",
+      "source": "./"
+    }
+  ]
+}
